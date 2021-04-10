@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Culturetrip
 //
-//  Created by MiciH on 4/8/21.
+//  Created by MiciH on 4/10/21.
 //
 
 import UIKit
